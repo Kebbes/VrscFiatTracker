@@ -1,5 +1,5 @@
 import requests
-import csv
+import csvl
 from time import sleep
 from datetime import datetime
 from config import CRYPTO_CURRENCY, FIAT_CURRENCY, STAKING_CSV_FILE, OUTPUT_CSV_FILE, WAITING_TIME
